@@ -2,38 +2,22 @@
 
 Here are some ideas to get you started:
 
-📫 Reach me out!
-
-<br />
-
-[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Ipenywis) [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
-
 <!-- TODO: Add last video link -->
 
--   🔭 I’m currently working on ...
--   🌱 I’m currently learning ...
--   👯 I’m looking to collaborate on ...
--   🤔 I’m looking for help with ...
--   💬 Ask me about ...
--   🔭 I’m currently working at my StartUp.
--   📫 How to reach me: pedro.llanos@estudiantat.upc.edu
--   😄 Pronouns: My StartUp.
+-   🔭 &nbsp; I’m currently working on ...
+-   🌱 &nbsp; I’m currently learning ...
+-   👯 &nbsp; I’m looking to collaborate on ...
+-   🤔 &nbsp; I’m looking for help with ...
+-   💬 &nbsp; Ask me about ...
+-   🔭 &nbsp; I’m currently working at my StartUp.
+-   📫 &nbsp; How to reach me: pedro.llanos@estudiantat.upc.edu
+-   📎 &nbsp; Reach me out: [CV](https://sirdrope.github.io/src/res/cv.pdf)
+-   😄 &nbsp; Pronouns: My StartUp.
 -   ⚡ Fun fact: I play games and go to the GYM very often.
-
-<br />
-
-#### Bizness
-
--   📎 [My Resume/CV](https://sirdrope.github.io/src/res/cv.pdf)
--   📧 pedro.llanos@estudiantat.upc.edu
-
-<br />
 
 #### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sirdrope.sirdrope)
-
-<br />
 
 #### Coding Stats
 
@@ -48,8 +32,6 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-<br />
 
 #### Github Stats
 
