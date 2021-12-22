@@ -41,7 +41,10 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirdrope&hide=TeX&layout=compact)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> e8c5f91b440e1c2020eab64a85b836cc4d5baec0
 <!--
 <details>
     <summary>
