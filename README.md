@@ -37,6 +37,11 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 
 ![SirDrope github stats](https://github-readme-stats.vercel.app/api?username=sirdrope&count_private=true&theme=tokyonight&hide=contribs,prs)
 
+#### Github Langs
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirdrope&hide=TeX&layout=compact)
+
+
 <!--
 <details>
     <summary>
