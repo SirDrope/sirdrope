@@ -2,6 +2,6 @@
 
 ## <span style="font-family: 'Lobster', cursive; font-weight: bold;">Hi I'm Pedro 🚀</span>
 
-With more than 7 years of experience in Full Stack Development, Data Science, Computer Science, and Computer Engineering, I have honed my skills in a variety of languages, frameworks, and technologies. As a seasoned entrepreneur and startup founder, I have a knack for building robust, scalable applications and platforms designed to solve real-world problems and drive business growth.
+With 7+ years of experience in Full Stack Developer, Computer Science and Engineering background, specializing in enterprise solutions and data science, with proven expertise in developing scalable applications, AI solutions, and cloud infrastructure. Drives innovative approaches to building robust solutions that solve complex business challenges while enhancing user experience and driving business growth.
 
 [My Portfolio](https://sirdrope.github.io)
