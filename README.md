@@ -2,6 +2,6 @@
 
 ## <span style="font-family: 'Lobster', cursive; font-weight: bold;">Hi I'm Pedro 🚀</span>
 
-With 7+ years of experience in Full Stack Developer, Computer Science and Engineering background, specializing in enterprise solutions and data science, with proven expertise in developing scalable applications, AI solutions, and cloud infrastructure. Drives innovative approaches to building robust solutions that solve complex business challenges while enhancing user experience and driving business growth.
+Hi, I'm Peter (Pi), a Full Stack Developer based in Almería with 7+ years of experience in enterprise solutions and data science. With a Computer Science and Engineering background, I specialize in developing scalable applications, AI solutions, and cloud infrastructure. I'm passionate about driving innovative approaches that solve complex business challenges while enhancing user experience and business growth.
 
 [My Portfolio](https://sirdrope.github.io)
